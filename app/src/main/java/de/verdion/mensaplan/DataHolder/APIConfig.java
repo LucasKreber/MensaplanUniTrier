@@ -1,7 +1,7 @@
 package de.verdion.mensaplan.DataHolder;
 
 public class APIConfig {
-    public static String API_KEY = "f58fa9ae-d4a6-4256-8a8a-120c775e1655";
+    public static String API_KEY = "";
     public static String BASE_URL = "https://appbackend.lima-city.de/Mensa/api";
     public static String ENDPOINT_API = "/api.php";
     public static String ENDPOINT_MESSAGE = "/getMessage.php";
