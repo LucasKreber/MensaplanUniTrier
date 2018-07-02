@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Mensaplan</string>
+    <string name="action_setting2">Lizenzen</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tasty">empfehlen</string>
+    <string name="settings1">Bereitgestellte Daten</string>
+    <string name="settings1_message1">Sämtliche Texte und Bilder unterliegen dem Copyright des Studiwerk Trier und können durch dessen freundliche Unterstützung hier zur Verfügung gestellt werden.</string>
+    <string name="settings2_message">Folgender Code, Icons und Third-party-Libaries werden verwendet</string>
+    <string name="setting_price">Preisanzeige ändern</string>
+    <string name="setting_image">Keine Bilder anzeigen</string>
+    <string name="setting_more">Weitere Uni-Apps</string>
+    <string name="setting_location">Bevorzugten Standort ändern</string>
+    <string name="setting_choice">Gerichte/Theken ausblenden</string>
+    <string name="moreApps">Noten-Benachrichtigung Trier</string>
+    <string name="moreApps2">Jetzt herunterladen</string>
+
+    <string name="choice_title">Gerichte/Theken ausblenden</string>
+    <string name="choice_beilagen">Beilagen</string>
+    <string name="choice_desert">Dessert-Auswahl</string>
+    <string name="choice_obst">Obst</string>
+    <string name="choice_tagessuppe">Tagessuppe</string>
+    <string name="choice_kleine_karte">Kleine Karte</string>
+    <string name="choice_untergeschoss">Untergeschoss</string>
+    <string name="choice_Theke_1">Theke 1</string>
+    <string name="choice_Theke_2">Theke 2</string>
+    <string name="choice_kleine_karte_for_u">Kleine Karte forU</string>
+    <string name="choice_wok">Wok forU</string>
+    <string name="choice_abendmensa">Abendmensa</string>
+
+    <string name="new_in_this_version_title">Changelog</string>
+    <string name="new_in_this_version_content">2.05\n\u2022Neue Filtereinstellungen wurden hinzugefügt. Filter können nun über die Hauptseite angepasst werden. Wegen Größeren Änderungen müssen bisherige Filtereinstellungen leider neu gewählt werden.\n\u2022Ein bevorzugter Standort kann nun ausgewählt werden.\n\u2022Kleiner Änderungen\n\n2.04\n\u2022Öffnungszeiten werden nun angezeigt (Anzeige kann in den Einstellungen deaktiviert werden)\n\u2022Über das Burger-Icon ist nun ein Schnellzugriff auf den Bugergenerator möglich\n\n2.03\n\u2022Bilder können nun deaktiviert werden.\n\u2022Kleinere Anpassungen\n\u2022mehrere Fehler behoben\n\n2.02\n\u2022Gluten und Alkohol werden nun auch als Zusatzstoffe angezeigt\n\n2.01\n\u2022Die Möglichkeit zum Spenden und somit zur Untertstützung der App wurde hinzugefügt (Die App bleibt aber natürlich kostenlos)</string>
+
+    <string name="rating_title">App bewerten</string>
+    <string name="rating_message">Gefällt dir die App? Wenn ja, würde ich mich über eine gute Bewertung im Play Store freuen.</string>
+
+    <string name="value_title">Dein Guthaben beträgt</string>
+    <string name="value_idle">Tunika an Handy halten</string>
+    <string name="no_nfc_title">NFC nicht verfügbar</string>
+    <string name="no_nfc_message">Leider wird die neue Guthabenfunktion durch dein Handy nicht unterstützt.</string>
+    <string name="nfc_error">Karte konnte nicht gelesen werden. Bitte versuche es erneut.</string>
+    <string name="nfc_error2">Lesefehler. Bitte erneut probieren</string>
+
+    <string name="inapp1">Ich entwickle die App privat und unentgeltlich in meiner Freizeit und sorge dafür, dass die Daten stets aktuell sind. \n\nWenn dir die App gefällt, würde ich mich über eine kleine Spende sehr freuen. Und keine Sorge, die App wird auch weiterhin kostenlos bleiben, auch wenn Du nichts spenden möchtest.</string>
+    <string name="inapp2">Ich schenke ein Mensa-Essen (2,69€)</string>
+    <string name="inapp3">Ich schenke einen Kaffee (0,99€)</string>
+    <string name="inapp4">Vielen Dank für Deine Unterstützung</string>
+    <string name="inapp5">Ich schenke meine Zeit und schaue ein Video an</string>
+    <string name="title_activity_config">Einstellungen</string>
+
+    <string name="filter_title">Filtereinstellungen</string>
+    <string name="filter_subtitle">Du bist Vegetarier/in, Veganer/in oder magst einfach keinen Fisch? Stelle Deinen Mensaplan so ein, dass nur angezeigt wird, was für dich in Frage kommt.</string>
+    <string name="filter_meet">Fleischgerichte anzeigen</string>
+    <string name="filter_vegetraisch">Vegetraische Gerichte anzeigen</string>
+    <string name="filter_vegan">Vegane Gerichte anzeigen</string>
+    <string name="filter_fish">Fischgerichte anzeigen</string>
+    <string name="filter_theken">Markiere Theken und Beilagen, um diese auszublenden</string>
+
+    <string name="dialog_location">Bevorzugten Standort ändern</string>
+    <string name="dialog_price">Preisanzeige ändern</string>
+
+</resources>

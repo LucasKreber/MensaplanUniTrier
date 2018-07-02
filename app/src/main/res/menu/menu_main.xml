@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="de.verdion.mensaplan.MainActivity">
+
+    <item
+        android:id="@+id/action_setting"
+        android:orderInCategory="100"
+        android:title="Einstellungen"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="101"
+        android:title="über Mensaplan"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_filter"
+        android:orderInCategory="99"
+        android:title=""
+        android:icon="@drawable/ic_sharp_tune_24px"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_burger"
+        android:orderInCategory="98"
+        android:title=""
+        android:icon="@drawable/ic_burger"
+        app:showAsAction="always" />
+
+
+</menu>
